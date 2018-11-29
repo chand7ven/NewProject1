@@ -7,7 +7,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body>
+    <body bgcolor=red>
         <h1>Hello World!</h1>
+       <h2>This is the updated file </h2>
     </body>
 </html>
